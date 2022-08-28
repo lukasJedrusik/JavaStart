@@ -2,6 +2,7 @@ public class Ingredient {
 
     private String name;
     int quantity;
+    int testDoGita;
 
     public Ingredient(String name, int quantity) {
         this.name = name;
